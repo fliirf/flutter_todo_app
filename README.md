@@ -30,7 +30,7 @@ Aplikasi To-Do List ini dibuat dengan Flutter. Pengguna dapat menambahkan, menge
 ## Cara Memulai
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/yourusername/flutter_todo_app.git
+   git clone https://github.com/fliirf/flutter_todo_app.git
 2. Masuk ke direktori proyek:
 cd flutter_todo_app
 3. Instal dependensi:
